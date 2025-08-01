@@ -8,4 +8,6 @@ nacos/nacos-server
 selenium/standalone-chrome
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+# Linux
+library/ubuntu:24.04
 # This is new content
