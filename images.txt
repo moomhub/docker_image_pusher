@@ -1,13 +1,14 @@
+# Nginx
 nginx
+# Affine
 ghcr.io/toeverything/affine-graphql:canary
 ghcr.io/toeverything/affine-graphql:stable
-ghcr.io/toeverything/affine-graphql:beta
-#open
-ghcr.io/open-webui/open-webui:main
+# Nacos
 nacos/nacos-server
+# Selenium
 selenium/standalone-chrome
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 # Linux
 library/ubuntu:24.04
+# OpenJdk
+library/openjdk:25-jdk-oraclelinux9
 # This is new content
