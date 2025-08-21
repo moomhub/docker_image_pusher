@@ -11,5 +11,5 @@ selenium/standalone-chrome
 library/ubuntu:24.04
 # OpenJdk
 library/openjdk:25-jdk-oraclelinux9
-# This is new content
-# This is new content
+# wg-easy
+ghcr.io/wg-easy/wg-easy
