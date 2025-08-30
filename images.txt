@@ -13,3 +13,5 @@ library/ubuntu:24.04
 library/openjdk:25-jdk-oraclelinux9
 # wg-easy
 ghcr.io/wg-easy/wg-easy
+# rustdesk
+lejianwen/rustdesk-server-s6:latest
