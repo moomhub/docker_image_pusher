@@ -3,6 +3,7 @@ nginx
 # Affine
 ghcr.io/toeverything/affine-graphql:canary
 ghcr.io/toeverything/affine-graphql:stable
+ghcr.io/toeverything/affine:stable
 # Nacos
 nacos/nacos-server
 # Selenium
