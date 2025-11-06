@@ -11,7 +11,7 @@ selenium/standalone-chrome
 # Linux
 library/ubuntu:24.04
 # OpenJdk
-library/openjdk:25-jdk-oraclelinux9
+
 # wg-easy
 ghcr.io/wg-easy/wg-easy
 # rustdesk
