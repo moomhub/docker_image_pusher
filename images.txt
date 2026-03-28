@@ -17,3 +17,5 @@ ghcr.io/wg-easy/wg-easy
 lejianwen/rustdesk-server-s6:latest
 # rustdesk
 library/ubuntu:22.04
+# chrome
+linuxserver/chromium
