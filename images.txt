@@ -13,7 +13,7 @@ library/ubuntu:24.04
 
 # wg-easy
 ghcr.io/wg-easy/wg-easy
-# rustdesk
+# rustdesk-s6
 lejianwen/rustdesk-server-s6:latest
 # rustdesk
 library/ubuntu:22.04
