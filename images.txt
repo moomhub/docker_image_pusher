@@ -19,3 +19,5 @@ lejianwen/rustdesk-server-s6:latest
 library/ubuntu:22.04
 # chrome
 linuxserver/chromium
+# janiquiz/qdjob
+janiquiz/qdjob
