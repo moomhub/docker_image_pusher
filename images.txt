@@ -21,3 +21,5 @@ library/ubuntu:22.04
 linuxserver/chromium
 # janiquiz/qdjob
 janiquiz/qdjob
+#
+nicolaka/netshoot:latest
